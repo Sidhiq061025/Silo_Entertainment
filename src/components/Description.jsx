@@ -11,14 +11,24 @@ export default function Description() {
         
         <br /><br />
 
+        <strong>🏆 Prize Pool: ₹12,000 + Internship Opportunity + Participant Certificates + Exciting Surprises</strong>
+        <br />
+        🥇 1st Place: ₹5,000  
+        <br />
+        🥈 2nd Place: ₹4,000  
+        <br />
+        🥉 3rd Place: ₹3,000  
+
+        <br /><br />
+
         👉{" "}
         <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLScntRpWRnT7l-pST7Lk7pjblLqdH2vkhRqaWRdQzKiGQqbCuw/viewform?usp=dialog"
+          href="https://forms.gle/APVTWWe5XkFC9VWa9"
           target="_blank"
           rel="noopener noreferrer"
           className="register-link"
         >
-          Register here: https://docs.google.com/forms/d/e/1FAIpQLScntRpWRnT7l-pST7Lk7pjblLqdH2vkhRqaWRdQzKiGQqbCuw/viewform?usp=dialog
+          Register your team here: https://forms.gle/APVTWWe5XkFC9VWa9
         </a>
       </p>
     </section>
