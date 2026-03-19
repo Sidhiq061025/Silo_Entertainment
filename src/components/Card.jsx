@@ -6,19 +6,19 @@ const tracks = [
   {
     platform: "For Mobile Only",
     title: "Idle / Tycoon Games",
-    body: "Build, Expand, Automate, Profit. Start from nothing and grow into something massive. Design systems where players build businesses, cities, or industries that generate continuous income and evolve over time.",
+    body: "Build and grow systems where players start small and expand into profitable empires.",
     image: CardImage1,
   },
   {
     platform: "For PC / Mobile",
     title: "Co-op Games",
-    body: "Teamwork, Chaos. Fun, Create experiences where players must work together to succeed. Whether it’s solving puzzles, surviving challenges, or navigating obstacles, communication should be the key to winning.",
+    body: "Create gameplay where teamwork and communication are essential to succeed.",
     image: CardImage2,
   },
   {
     platform: "For PC / Mobile",
     title: "Speedrun Games",
-    body: "Fast, Precise, Addictive. Design levels that challenge players to improve their skills and beat their best time. Every second matters, and replayability is everything.",
+    body: "Design fast-paced challenges that reward skill, precision, and replayability.",
     image: CardImage3,
   },
 ];
