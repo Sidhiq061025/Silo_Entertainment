@@ -4,21 +4,21 @@ import CardImage3 from "../assets/card3.png";
 
 const tracks = [
   {
-    platform: "PC / Mobile",
+    platform: "For Mobile Only",
     title: "Idle / Tycoon Games",
-    body: "Build factories, cities, or businesses that generate endless profit.",
+    body: "Build, Expand, Automate, Profit. Start from nothing and grow into something massive. Design systems where players build businesses, cities, or industries that generate continuous income and evolve over time.",
     image: CardImage1,
   },
   {
-    platform: "PC / Mobile",
+    platform: "For PC / Mobile",
     title: "Co-op Games",
-    body: "Communication and teamwork should be essential to win.",
+    body: "Teamwork, Chaos. Fun, Create experiences where players must work together to succeed. Whether it’s solving puzzles, surviving challenges, or navigating obstacles, communication should be the key to winning.",
     image: CardImage2,
   },
   {
-    platform: "PC / Mobile",
+    platform: "For PC / Mobile",
     title: "Speedrun Games",
-    body: "Players should be able to replay levels to beat their best time.",
+    body: "Fast, Precise, Addictive. Design levels that challenge players to improve their skills and beat their best time. Every second matters, and replayability is everything.",
     image: CardImage3,
   },
 ];
