@@ -3,8 +3,8 @@ import { ExpandMore } from "@mui/icons-material";
 
 const questions = [
   {
-    q: "Lorem ipsum dolor sit amet.",
-    a: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    q: "Idle / Tycoon Games details and Examples.",
+    a: "Games focused on building, upgrading, and generating continuous growth. Examples: Business simulation games where you grow a company, Factory or city-building management games, Incremental games with automation and upgrades. Core Idea: Start small → Upgrade → Expand → Automate.",
   },
   {
     q: "Lorem ipsum dolor sit amet.",
