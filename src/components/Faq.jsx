@@ -2,23 +2,15 @@ import { useState } from "react";
 import { ExpandMore } from "@mui/icons-material";
 
 const questions = [
+  { q: "Idle / Tycoon Games details and Examples.", 
+   a: "Games focused on building, upgrading, and generating continuous growth. Examples: Business simulation games where you grow a company (Like Business empire mobile), Factory or city-building management games (like satisfactory), Incremental games with automation and upgrades (Like Idle Miner). Core Idea: Start small → Upgrade → Expand → Automate.", },
   {
-  q: "Idle / Tycoon Games details and Examples.",
-  a: `Games focused on building, upgrading, and generating continuous growth.<br><br>
-      <b>Examples:</b><br>
-      • Business simulation games where you grow a company<br>
-      • Factory or city-building management games<br>
-      • Incremental games with automation and upgrades<br><br>
-      <b>Core Idea:</b><br>
-      Start small → Upgrade → Expand → Automate.`
-},
-  {
-    q: "Lorem ipsum dolor sit amet.",
-    a: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    q: "Co-op Games details and Examples.",
+    a: "Games designed around teamwork, coordination, and shared objectives. Few Examples are: Multiplayer obstacle challenges requiring coordination (like Chained together), Physics-based co-op games with chaotic gameplay (like human fall flat), Puzzle games where each player has a unique role (Like It takes two). Core Idea: Work together to succeed (or fail hilariously) .",
   },
   {
-    q: "Lorem ipsum dolor sit amet.",
-    a: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    q: "Speedrun Games details and Examples.",
+    a: "Games focused on precision, timing, and replayability. Fast-paced platformers with challenging levels (Like Only up), Obstacle courses designed for skilled completion (Like Getting over it), Reaction-based gameplay with timing challenges (Geometry Dash).",
   },
 ];
 
