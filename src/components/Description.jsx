@@ -18,7 +18,7 @@ export default function Description() {
           rel="noopener noreferrer"
           className="register-link"
         >
-          Register your team here
+          Register here: https://docs.google.com/forms/d/e/1FAIpQLScntRpWRnT7l-pST7Lk7pjblLqdH2vkhRqaWRdQzKiGQqbCuw/viewform?usp=dialog
         </a>
       </p>
     </section>
